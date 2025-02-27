@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "scrapping:champs": "npx ts-node src/web-scrapping/champs.ts",
     "scrapping:archetypes": "npx ts-node src/web-scrapping/archetypes.ts",
-    "scrapping:counters": "npx ts-node src/web-scrapping/counters.ts"
+    "scrapping:counters": "npx ts-node src/web-scrapping/counters.ts",
+    "format": "npx prettier ./src"
   },
   "author": "mikiPP13",
   "license": "ISC",
@@ -15,6 +16,7 @@
     "playwright": "^1.50.1"
   },
   "devDependencies": {
-    "@types/node": "^22.13.5"
+    "@types/node": "^22.13.5",
+    "prettier": "^3.5.2"
   }
 }

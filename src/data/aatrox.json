@@ -1,1 +1,63 @@
-{"name":"aatrox","counters":[{"type":"extreme","champName":"irelia","description":"irelia has everything to counter you with her insane mobility and damage negation and thus remains the most formidable counterpick against aatrox. against her you need to be extremely careful not to overextend. most irelias prepare their engages with quite clear signs such as getting a few minions low next to you. you can try to predict her q and land your own q but other than that it comes down to whether or not you can dodge her e. after bork she becomes way too powerful to reliably kill, so trust your team enough that they can deal with her."}],"synergies":[],"archetype":["juggernaut"],"lines":[]}
+{
+  "name": "aatrox",
+  "counters": [
+    {
+      "type": "extreme",
+      "champName": "irelia",
+      "description": "irelia has everything to counter you with her insane mobility and damage negation and thus remains the most formidable counterpick against aatrox. against her you need to be extremely careful not to overextend. most irelias prepare their engages with quite clear signs such as getting a few minions low next to you. you can try to predict her q and land your own q but other than that it comes down to whether or not you can dodge her e. after bork she becomes way too powerful to reliably kill, so trust your team enough that they can deal with her."
+    },
+    {
+      "type": "major",
+      "champName": "fiora",
+      "description": "fiora is a very common counterpick against aatrox as her w parry is a very reliable ability against our q. early on try to focus on not letting her get free vital hits on you especially if she has grasp. you will take heavy damage and be forced to play so that she can set up a tower dive. the most important thing is to keep note of her w cooldown. try to dodge it by using e sideways while using q. mastering it makes this lane so much easier. grievous wounds are good against her."
+    },
+    {
+      "type": "major",
+      "champName": "vayne",
+      "description": "go edge of night first as it will make her stun useless. arcane comet is good here since conqueror offers zero value. don't get poked down early and punish her if she uses her dash to catch you. don't play next to a wall as she can stun you and possibly kill you."
+    },
+    {
+      "type": "major",
+      "champName": "yone",
+      "description": "yone is quite weak early game but scales really well into mid and late game. early game focus on baiting his w as it can block an entire q worth of damage from you. if you land your w on him he will most likely use e to dodge it. keep in mind that his r makes him unstoppable so he can use it to negate your q knockup. you win him level 6 if you're both even."
+    },
+    {
+      "type": "major",
+      "champName": "gwen",
+      "description": "she is quite squishy but has a lot of damage so don't take extended trades. her r gives her insane burst so try to dodge it at all costs. hexdrinker early is very good but build eclipse before finishing maw: eclipse allows you to trade better while maw becomes more useful later due to the shield. she outscales you quite hard in late game so avoid fighting her alone."
+    },
+    {
+      "type": "major",
+      "champName": "riven",
+      "description": "respect her early game as she can confidently burst you with ignite. she has many different dashes in her kit, thus the key is baiting her into your q sweet spot. baiting her w out is really the only way you'll ever win her unless she makes an obvious mistake. respect her at all points in the game and shut her down in teamfights using your q stun."
+    },
+    {
+      "type": "major",
+      "champName": "kled",
+      "description": "you can use your e to dodge his q but learn to sidestep it without using e as this will allow you to trade with him more efficiently. his q has grievous wounds in it so you won't heal as much as you normally would. don't fight him early and respect him when his mount runs away as he can get it back almost instantly if you let him hit you for free."
+    },
+    {
+      "type": "major",
+      "champName": "olaf",
+      "description": "the key in this matchup is dodging his axe, as it slows you and reduces your armor. he gets stronger the less health he has so be careful. his ult makes your stuns useless so don't fight him when he uses r if possible. grievous wounds early are not a bad choice."
+    },
+    {
+      "type": "major",
+      "champName": "kennen",
+      "description": "arcane comet is a must here as conqueror offers zero value in lane. hexdrinker early is a good option. if you let him push you should focus on punishing him always when he goes for minions but don't get too low. poke him with q whenever possible and look for an all in when he is low. keep in mind that his e gives him an enormous mobility boost so don't waste abilities on him if he uses it."
+    },
+    {
+      "type": "major",
+      "champName": "pantheon",
+      "description": "an extremely oppressive lane early. his q outranges you hard and deals insane damage. try to dodge it if possible, otherwise just farm under tower. your goal here is to stay relatively even up until mid game where you can win him. most pantheons also go ignite so respect his first few levels. he is much weaker in mid game than you but gets a powerspike in late game. bait his e and you can possibly fight him"
+    },
+    {
+      "type": "major",
+      "champName": "ambessa",
+      "description": "ambessa is extremely oppressive in extended combat mainly because of the amount of dashes in her kit. your best bet is to just farm and freeze the wave so that you can trade with her, eventually creating an opening with which you can kill her. keep in mind that after lvl 6 she heals from all her abilities and that she gains armor pen. building early armor against her is good since ad is all she can do. take note of her w cooldown (basically k'sante w) as she can negate an entire q worth of damage off of you. never overextend and try to keep the wave on your side and you should win."
+    }
+  ],
+  "synergies": [],
+  "archetype": ["juggernaut"],
+  "lines": []
+}

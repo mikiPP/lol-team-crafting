@@ -69,11 +69,10 @@ function createJsonFile(synergies: Synergy[], counters: Counter[], index: number
 const getCountersAndSynergies = async (page: Page) => {
   const links = mobafire_best_guide_champ_url;
 
-  const counters: Counter[] = [];
-  const synergies: Synergy[] = [];
-  let index = 0;
-
-  for (const link of links) {
+  for (let index = 0; index < links.length; index++) {
+    const link = links[index];
+    const counters: Counter[] = [];
+    const synergies: Synergy[] = [];
     try {
       await page.goto(link, { timeout: 10000 }); // Increase timeout to 10 seconds
       const countersForThisChamp = await page.locator('.view-guide__tS__bot__left > .row').all();
@@ -82,9 +81,9 @@ const getCountersAndSynergies = async (page: Page) => {
         const innerText = await counter.innerText();
         const innerTextCleaned = innerText
           .split('\n')
-          .filter((text) => text.replace('\t', '').trim().length);
+          .map((text) => text.replace('\t', '').trim())
+          .filter((text) => text.length);
         const [champName, counterLevel, description] = innerTextCleaned;
-
         const type = getCounterType(counterLevel);
         if (!type) {
           continue;
@@ -103,7 +102,8 @@ const getCountersAndSynergies = async (page: Page) => {
         const innerText = await synergy.innerText();
         const innerTextCleaned = innerText
           .split('\n')
-          .filter((text) => text.replace('\t', '').trim().length);
+          .map((text) => text.replace('\t', '').trim())
+          .filter((text) => text.length);
         const [champName, synergyLevel, description] = innerTextCleaned;
 
         const type = getSynergyType(synergyLevel);
@@ -120,8 +120,8 @@ const getCountersAndSynergies = async (page: Page) => {
     } catch (error) {
       console.error(`Failed to load info:`, scrappedChamps[index], error);
     }
+
     createJsonFile(synergies, counters, index);
-    index++;
   }
 };
 

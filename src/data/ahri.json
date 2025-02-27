@@ -1,1 +1,184 @@
-{"name":"ahri","counters":[{"type":"extreme","champName":"irelia","description":"irelia has everything to counter you with her insane mobility and damage negation and thus remains the most formidable counterpick against aatrox. against her you need to be extremely careful not to overextend. most irelias prepare their engages with quite clear signs such as getting a few minions low next to you. you can try to predict her q and land your own q but other than that it comes down to whether or not you can dodge her e. after bork she becomes way too powerful to reliably kill, so trust your team enough that they can deal with her."},{"type":"extreme","champName":"irelia","description":"irelia has unmatched sustain and so is pretty much impossible for you to push out of lane. the best thing you can do is try not to push the wave (unless you can 1 shot it) and hold your e defensively. the good news is even if you fall behind early you should still be able to deal with her in teamfights. just focus on not dying and be willing to give up some cs if necessary."}],"synergies":[{"type":"ideal","champName":"jarvan iv","description":"ahri is excellent with pretty much any ad ganking jungler such as jarvan, xin zhao or lee sin. she can also function fairly well with high damage junglers like graves or kindred."}],"archetype":["burst"],"lines":[]}
+{
+  "name": "ahri",
+  "counters": [
+    {
+      "type": "extreme",
+      "champName": "irelia",
+      "description": "irelia has unmatched sustain and so is pretty much impossible for you to push out of lane. the best thing you can do is try not to push the wave (unless you can 1 shot it) and hold your e defensively. the good news is even if you fall behind early you should still be able to deal with her in teamfights. just focus on not dying and be willing to give up some cs if necessary."
+    },
+    {
+      "type": "extreme",
+      "champName": "orianna",
+      "description": "orianna is a very difficult lane and you will need help from your support and jungle in order to win. focus on getting control of the wave with your autos so that she doesn't have time to harass you. eventually you will have enough waveclear that you can neutralize the matchup."
+    },
+    {
+      "type": "major",
+      "champName": "syndra",
+      "description": "syndra is a very strong lane bully early, but she is also very gankable and you can dodge her skillshots with your w movespeed. it can be a good idea to rush merc treads in order to survive."
+    },
+    {
+      "type": "major",
+      "champName": "fizz",
+      "description": "fizz is very mobile and so can be hard to hit, but you can bully him very hard in the first 2 levels and then try have the wave come back to you after that. be very careful of being caught too far up in the lane since fizz can easily run you down, especially if you waste your e. post 6 be super careful of his all in and gank setup. it can be worth buying a null magic mantle and sitting on it in this matchup just to not die."
+    },
+    {
+      "type": "major",
+      "champName": "zed",
+      "description": "zed is all about dodging his weq combo. if you can consistently dodge it then the matchup shouldn't be too hard. try and play aggressive when his w is on cd to make up for any health you might have lost. at 6 be willing to trade ult immediately if he goes on you to avoid taking too much damage."
+    },
+    {
+      "type": "major",
+      "champName": "yasuo",
+      "description": "yasuo is pretty strong in lane but he's very gankable. you need to be very careful being pushed up and for the most part will want to keep the wave on your side of the lane. try avoid any 1v1 fights and you should outperform him in teamfights."
+    },
+    {
+      "type": "extreme",
+      "champName": "viktor",
+      "description": "viktor is a very strong laner but definitely not as useful as you in a 2v2 or skirmish situation. focus on trying to avoid trades and clearing the wave. try lean him into your jungler whenever possible. eventually you will have enough waveclear to completely neutralize."
+    },
+    {
+      "type": "major",
+      "champName": "neeko",
+      "description": "neeko is a pretty strong laner so you will be mainly trying to dodge skillshots and clear waves to survive. you definitely outscale this matchup so as long as you don't get blasted 1v1 if you should be good. you can consider rushing merc treads if you need them too."
+    },
+    {
+      "type": "major",
+      "champName": "leblanc",
+      "description": "leblanc is very strong in the first few levels, you can consider going resolve secondary to grab boneplating which can make this matchup a bit more manageable. if you don't fall super behind in the first 3 levels you should be ok."
+    },
+    {
+      "type": "major",
+      "champName": "karma",
+      "description": "karma is a very strong laner but eventually you will get to the point where you can neutralize. try hold your charm so she can't just walk past the wave for free."
+    },
+    {
+      "type": "major",
+      "champName": "yone",
+      "description": "yone is all about respecting his windows. when he has q3 and/or e you need to play more respectfully and try move back. it's also a good idea to try hold e defensively in this matchup unless yone wastes his cooldowns. post 6 be very careful of being rundown the lane if you're pushed up far or falling victim to his gank setup."
+    },
+    {
+      "type": "major",
+      "champName": "zoe",
+      "description": "beating zoe is a lot about positioning. you need to make sure not to get hit by random qs while also keeping yourself close to the creeps so that you can block her e.  if zoe picks up a summ like exhaust or ignite you will need to hold e defensively as she may look to force an all in with it. post 6 when she ults forward it can be an opportunity to get a free charm and good trade."
+    },
+    {
+      "type": "major",
+      "champName": "lux",
+      "description": "against lux you need to stand apart from the wave. if she uses e on you, try dodge it but worst case you will be able to get push over the wave and then harass her easier. if you want to be safe you can go merc treads in this matchup, otherwise be very careful being caught by a q post 6 as you'll take a huge amount of damage."
+    },
+    {
+      "type": "extreme",
+      "champName": "akshan",
+      "description": "akshan is very strong in the early game but as you get more waveclear you will be able to stop him from roaming. in the early game you will mainly just want to play safe and hold your e in case he goes onto you."
+    },
+    {
+      "type": "major",
+      "champName": "diana",
+      "description": "diana is deceptively tanky and snowballs well but she has a hard time engaging on you if you hold e. focus on neutralizing and she will have a hard time teamfighting into you."
+    },
+    {
+      "type": "major",
+      "champName": "corki",
+      "description": "corki is very strong in the early laning phase and so you will need to play defensively and focus on reaching your waveclear spike. hold your w to disengage from him walking forward with e, and never use your charm before he has used his w. holding your cds defensively is key to give him limited windows to trade. once you get chapter/levels in q you should be able to neutralize the wave and play for 2v2s."
+    },
+    {
+      "type": "major",
+      "champName": "hwei",
+      "description": "hwei is very strong in lane and can pressure you very hard 1v1, but he's very immobile and you should have no trouble setting up ganks onto him or catching him out of position in teamfights."
+    }
+  ],
+  "synergies": [
+    {
+      "type": "ideal",
+      "champName": "jarvan iv",
+      "description": "ahri is excellent with pretty much any ad ganking jungler such as jarvan, xin zhao or lee sin. she can also function fairly well with high damage junglers like graves or kindred."
+    },
+    {
+      "type": "ideal",
+      "champName": "xin zhao",
+      "description": "ahri is excellent with pretty much any ad ganking jungler such as jarvan, xin zhao or lee sin. she can also function fairly well with high damage junglers like graves or kindred."
+    },
+    {
+      "type": "ideal",
+      "champName": "lee sin",
+      "description": "ahri is excellent with pretty much any ad ganking jungler such as jarvan, xin zhao or lee sin. she can also function fairly well with high damage junglers like graves or kindred."
+    },
+    {
+      "type": "none",
+      "champName": "karthus",
+      "description": "ahri is playable with ap junglers, but it gives much higher merc treads value to the enemy team which is pretty bad for both of you. ideally you avoid playing with ap junglers but you can make it work."
+    },
+    {
+      "type": "none",
+      "champName": "lillia",
+      "description": "ahri is playable with ap junglers, but it gives much higher merc treads value to the enemy team which is pretty bad for both of you. ideally you avoid playing with ap junglers but you can make it work."
+    },
+    {
+      "type": "none",
+      "champName": "evelynn",
+      "description": "ahri is playable with ap junglers, but it gives much higher merc treads value to the enemy team which is pretty bad for both of you. ideally you avoid playing with ap junglers but you can make it work."
+    },
+    {
+      "type": "ok",
+      "champName": "nidalee",
+      "description": "ahri is decent with nidalee because the priority you get on the mid wave can be useful to help invade, and the charm can provide decent setup. it's still better if you can avoid being double ap mid jungle but it's workable."
+    },
+    {
+      "type": "strong",
+      "champName": "graves",
+      "description": "ahri is excellent with pretty much any ad ganking jungler such as jarvan, xin zhao or lee sin. she can also function fairly well with high damage junglers like graves or kindred."
+    },
+    {
+      "type": "strong",
+      "champName": "kindred",
+      "description": "ahri is excellent with pretty much any ad ganking jungler such as jarvan, xin zhao or lee sin. she can also function fairly well with high damage junglers like graves or kindred."
+    },
+    {
+      "type": "ideal",
+      "champName": "jarvan iv",
+      "description": "ahri is excellent with pretty much any ad ganking jungler such as jarvan, xin zhao or lee sin. she can also function fairly well with high damage junglers like graves or kindred."
+    },
+    {
+      "type": "ideal",
+      "champName": "xin zhao",
+      "description": "ahri is excellent with pretty much any ad ganking jungler such as jarvan, xin zhao or lee sin. she can also function fairly well with high damage junglers like graves or kindred."
+    },
+    {
+      "type": "ideal",
+      "champName": "lee sin",
+      "description": "ahri is excellent with pretty much any ad ganking jungler such as jarvan, xin zhao or lee sin. she can also function fairly well with high damage junglers like graves or kindred."
+    },
+    {
+      "type": "none",
+      "champName": "karthus",
+      "description": "ahri is playable with ap junglers, but it gives much higher merc treads value to the enemy team which is pretty bad for both of you. ideally you avoid playing with ap junglers but you can make it work."
+    },
+    {
+      "type": "none",
+      "champName": "lillia",
+      "description": "ahri is playable with ap junglers, but it gives much higher merc treads value to the enemy team which is pretty bad for both of you. ideally you avoid playing with ap junglers but you can make it work."
+    },
+    {
+      "type": "none",
+      "champName": "evelynn",
+      "description": "ahri is playable with ap junglers, but it gives much higher merc treads value to the enemy team which is pretty bad for both of you. ideally you avoid playing with ap junglers but you can make it work."
+    },
+    {
+      "type": "ok",
+      "champName": "nidalee",
+      "description": "ahri is decent with nidalee because the priority you get on the mid wave can be useful to help invade, and the charm can provide decent setup. it's still better if you can avoid being double ap mid jungle but it's workable."
+    },
+    {
+      "type": "strong",
+      "champName": "graves",
+      "description": "ahri is excellent with pretty much any ad ganking jungler such as jarvan, xin zhao or lee sin. she can also function fairly well with high damage junglers like graves or kindred."
+    },
+    {
+      "type": "strong",
+      "champName": "kindred",
+      "description": "ahri is excellent with pretty much any ad ganking jungler such as jarvan, xin zhao or lee sin. she can also function fairly well with high damage junglers like graves or kindred."
+    }
+  ],
+  "archetype": ["burst"],
+  "lines": []
+}
